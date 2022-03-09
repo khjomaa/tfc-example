@@ -3,4 +3,4 @@
 
 ### Composer vars ###
 #composer_service_account = "738203742119-compute@developer.gserviceaccount.com"
-composer_service_account = "terraform-sa@khjomaa-tfc-gcp.iam.gserviceaccount.com"
+composer_service_account = "sa-terraform@khjomaa-tfc-gcp.iam.gserviceaccount.com"
