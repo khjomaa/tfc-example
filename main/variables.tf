@@ -17,7 +17,7 @@ variable "image" {
   default = "centos-cloud/centos-7"
 }
 
-variable "gcp_credentials" {}
+#variable "gcp_credentials" {}
 
 
 ### Composer V2 Vars
